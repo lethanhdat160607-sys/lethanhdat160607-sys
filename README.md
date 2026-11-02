@@ -2,14 +2,14 @@
 
 # Hi, I'm Dat 👋
 
-### Developer · Computer Networks · Cybersecurity
+### 🚀 Developer · 🌐 Computer Networks · 🛡️ Cybersecurity
 
 <img src="chonky-cat.gif" width="500" alt="A chonky pixel cat waddling across the screen" />
 
-**Keep learning. Keep building. Never give up.**
+![Mindset](https://img.shields.io/badge/MINDSET-Keep%20learning%20%7C%20Never%20give%20up-8B5CF6?style=for-the-badge&labelColor=0891B2)
 
-[![GitHub followers](https://img.shields.io/github/followers/lethanhdat160607-sys?style=for-the-badge&logo=github&logoColor=67E8F9&label=Followers&labelColor=0B1220&color=172554)](https://github.com/lethanhdat160607-sys)
-[![Profile views](https://komarev.com/ghpvc/?username=lethanhdat160607-sys&style=for-the-badge&color=7C3AED&label=Profile%20views)](https://github.com/lethanhdat160607-sys)
+[![GitHub followers](https://img.shields.io/github/followers/lethanhdat160607-sys?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=1D4ED8&color=06B6D4)](https://github.com/lethanhdat160607-sys)
+[![Profile views](https://komarev.com/ghpvc/?username=lethanhdat160607-sys&style=for-the-badge&color=F97316&label=Profile%20views)](https://github.com/lethanhdat160607-sys)
 
 </div>
 
@@ -26,12 +26,12 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=67E8F9)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=CBD5E1)
-![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=60A5FA)
-![Assembly](https://img.shields.io/badge/Assembly-111827?style=for-the-badge&logo=assemblyscript&logoColor=C4B5FD)
-![Rust](https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=FDBA74)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FDE68A)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-7C3AED?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
 
 </div>
 
@@ -43,11 +43,11 @@
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FDE68A)
-![Nmap](https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logoColor=67E8F9)
-![Wireshark](https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=67E8F9)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=FDBA74)
-![Metasploit](https://img.shields.io/badge/Metasploit-111827?style=for-the-badge&logo=metasploit&logoColor=93C5FD)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
+![Nmap](https://img.shields.io/badge/Nmap-2563EB?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-0891B2?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F97316?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-DC2626?style=for-the-badge&logo=metasploit&logoColor=white)
 
 </div>
 
