@@ -54,14 +54,7 @@ I’m interested in network fundamentals, traffic analysis, and learning how to 
 
 > I use security tools only on systems I own or have clear permission to test.
 
-## 🎬 Featured video
 
-<!-- Replace YOUR_VIDEO_ID with the ID from your YouTube link. Example: youtube.com/watch?v=abc123 -> abc123 -->
-<div align="center">
-
-[![Watch my video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-**▶ Click the thumbnail to watch my video**
 
 </div>
 
