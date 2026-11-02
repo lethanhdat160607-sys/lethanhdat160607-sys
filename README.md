@@ -8,6 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=520&lines=Curious+developer;Exploring+systems+and+networks;Learning+cybersecurity+the+ethical+way;Never+give+up.+Keep+building.)](https://git.io/typing-svg)
 
+<img src="assets/chonky-cat.gif" width="480" alt="A chonky pixel cat waddling across the screen" />
+
 [![GitHub followers](https://img.shields.io/github/followers/lethanhdat160607-sys?style=for-the-badge&logo=github&label=FOLLOW)](https://github.com/lethanhdat160607-sys)
 [![Profile views](https://komarev.com/ghpvc/?username=lethanhdat160607-sys&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS)](https://github.com/lethanhdat160607-sys)
 
